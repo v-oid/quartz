@@ -3,7 +3,8 @@ title: "World of Emryssia"
 enableToc: false
 ---
 
-## Locations
+Locations
+-----------------
 - [[Locations/The Swamp|The Swamp]]
 	- [[Corrupted Tower of Bahamut]]
 	- [[Kobold Settlement]]
